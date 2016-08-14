@@ -13,7 +13,7 @@ I last left off by saying I was going to investigate Rails.  However, I've ended
 
 - Secondly, I have two programmer buddies who've been using Laravel for a while. I figure it'd be nice to have people to go to when things go crazy.
 
-- Lastly and most importantly, I went the route of PHP beacuse I discovered Jeffery Way and [Laracasts]("http://laracasts.com").
+- Lastly and most importantly, I went the route of PHP beacuse I discovered Jeffery Way and [Laracasts](http://laracasts.com).
 
 Honestly, I've never seen somebody break down programming knowledge as perfectly as Jeffery Way does it.  I started with just the PHP basics course that he has just to see how I enjoyed his teaching style and that alone made me dive wholesale into Laravel.  That's how great of a teacher he is.  He's the primary reason I've totally abandoned Rails for right now.  If this guy taught Rails, then it'd be a different story.  But he's teaching Laravel and I've jumped on that bandwagon.
 
