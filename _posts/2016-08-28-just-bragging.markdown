@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just Bragging - Zurb Foundation"
-date:   2016-28-14 17:30:00 -0400
+date:   2016-08-28-14 17:30:00 -0400
 categories: update
 ---
 
